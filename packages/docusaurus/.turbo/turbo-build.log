@@ -1,0 +1,4 @@
+
+> @doctribute/docusaurus@0.0.0 build /Users/alex/dev/alexandrebodin/doctribute/packages/docusaurus
+> tsc --project tsconfig.build.json
+
